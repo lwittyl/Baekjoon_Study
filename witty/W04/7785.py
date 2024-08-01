@@ -1,4 +1,6 @@
-n=int(input())
+import sys
+input = sys.stdin.readlinen=int(input())
+
 dict={}
 for i in range(n):
     man, state=input().split()
