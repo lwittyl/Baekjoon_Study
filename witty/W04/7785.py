@@ -1,5 +1,5 @@
 import sys
-input = sys.stdin.readlinen=int(input())
+input = sys.stdin.readline
 
 dict={}
 for i in range(n):
